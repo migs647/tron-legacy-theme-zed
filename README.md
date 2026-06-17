@@ -33,4 +33,4 @@ Cody Garvin — [emig647@gmail.com](mailto:emig647@gmail.com)
 
 ## License
 
-MIT
+Apache 2.0
