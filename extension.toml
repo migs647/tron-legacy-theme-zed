@@ -1,0 +1,7 @@
+id = "tron-legacy-theme"
+name = "Tron Legacy"
+version = "0.1.0"
+schema_version = 1
+authors = ["Cody Garvin <emig647@gmail.com>"]
+description = "A dark theme inspired by Tron Legacy — deep navy backgrounds with electric blue accents and amber/orange syntax highlights."
+repository = "https://github.com/migs647/trong-legacy-theme-zed"
